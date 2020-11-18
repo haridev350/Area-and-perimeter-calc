@@ -1,3 +1,6 @@
+//calc.java
+//@author haridev350
+
 package com.hari.apcalc;
 import java.util.Scanner;
 public class calc {
@@ -70,6 +73,8 @@ public class calc {
 		{
 			System.out.println("Wrong Choice");
 		}
+		
+		sc.close();
 
 	}
 
